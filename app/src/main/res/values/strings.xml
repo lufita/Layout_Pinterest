@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout Pinterest</string>
+    <string name="katalog">Selamat datang di Pinterest, Katalog ide dunia</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="lanjut_dengan_email">Lanjut dengan email</string>
+    <string name="lanjut_dengan_facebook">lanjut dengan facebook</string>
+    <string name="lanjut_dengan_google">Lanjut dengan Google</string>
+    <string name="kebijakan">Persyaratan Layanan dan Kebijakan Privasi</string>
+</resources>
